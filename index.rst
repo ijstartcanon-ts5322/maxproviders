@@ -1,5 +1,5 @@
 ##################
-Max.com/providers: How to Connect Your TV or Internet Provider To Max
+How to Use Max.com/providers to Activate Your Max Streaming Access?
 ##################
 
 .. meta::
@@ -23,7 +23,7 @@ Max.com/providers: How to Connect Your TV or Internet Provider To Max
       :height: 50px
 
 
-How to Use Max.com/providers to Activate Your Max Streaming Access
+Max.com/providers: How to Connect Your TV or Internet Provider To Max
 ==================================================================
 
 If you have access to Max (formerly HBO Max) through a TV, internet, or mobile subscription, the website `max.com/providers` is your official gateway to activate your account. Whether you're using a smart TV, streaming device, or web browser, this step-by-step guide will walk you through the process of using the **Max providers code** to link your subscription.
