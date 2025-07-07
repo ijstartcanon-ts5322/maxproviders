@@ -23,10 +23,10 @@ Max.com/providers: How to Connect Your TV or Internet Provider To Max
       :height: 50px
 
 
-How to Use max.com/providers to Activate Your Max Streaming Access
+How to Use Max.com/providers to Activate Your Max Streaming Access
 ==================================================================
 
-If you have access to Max (formerly HBO Max) through a TV, internet, or mobile subscription, the website `https://max.com/providers` is your official gateway to activate your account. Whether you're using a smart TV, streaming device, or web browser, this step-by-step guide will walk you through the process of using the **Max providers code** to link your subscription.
+If you have access to Max (formerly HBO Max) through a TV, internet, or mobile subscription, the website `max.com/providers` is your official gateway to activate your account. Whether you're using a smart TV, streaming device, or web browser, this step-by-step guide will walk you through the process of using the **Max providers code** to link your subscription.
 
 This page is written for educational and informational purposes only and is not affiliated with Warner Bros. Discovery.
 
@@ -41,7 +41,7 @@ For example:
 - Hulu with Max add-on
 - DirecTV, Verizon, and others
 
-➡ Visit the official page: `https://www.max.com/providers`
+➡ Visit the official page: `HBO Max Login`
 
 Using the Max Providers Code
 ----------------------------
@@ -72,7 +72,7 @@ Some of the most popular providers that support Max activation include:
 - YouTube TV (if bundled)
 - Amazon Prime Channels (with Max subscription)
 
-You can see the full provider list when you visit `https://max.com/providers` and begin the login process.
+You can see the full provider list when you visit `Max com Providers` and begin the login process.
 
 Troubleshooting Common Issues
 -----------------------------
