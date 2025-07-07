@@ -6,21 +6,21 @@ Max.com/providers: How to Connect Your TV or Internet Provider To Max
    :msvalidate.01: EC1CC2EBFA11DD5C3D82B1E823DE7278
 
 .. image:: blank.png
-      :width: 350px
+      :width: 250px
       :align: center
-      :height: 100px
+      :height: 50px
 
 .. image:: Enter_Product_Key.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: ij.start.canon
+      :alt: Max.com/providers
       :target: #
 
 .. image:: blank.png
-      :width: 350px
+      :width: 250px
       :align: center
-      :height: 100px
+      :height: 50px
 
 
 This guide explains how **max.com/providers** works and how to connect your TV, internet, or mobile provider to access Max (formerly HBO Max). 
@@ -28,8 +28,8 @@ This guide explains how **max.com/providers** works and how to connect your TV, 
 Overview
 --------
 
-- `max.com/providers` is the official activation portal where users enter a 6‑digit code (displayed on TV) to link their provider account with Max :contentReference[oaicite:1]{index=1}.
-- Common providers include cable or streaming services like Xfinity, Hulu, Sling TV, Disney+, DoorDash Bundle, and more :contentReference[oaicite:2]{index=2}.
+- `max.com/providers` is the official activation portal where users enter a 6‑digit code (displayed on TV) to link their provider account with Max.
+- Common providers include cable or streaming services like Xfinity, Hulu, Sling TV, Disney+, DoorDash Bundle, and more.
 
 Why Use `max.com/providers`?
 -----------------------------
@@ -38,10 +38,10 @@ Why Use `max.com/providers`?
    You enter a unique TV‑displayed code, automatically connecting your existing subscription provider.
 
 2. **Seamless Streaming Access**  
-   After connecting, you can sign in on any supported device using your Max credentials :contentReference[oaicite:3]{index=3}.
+   After connecting, you can sign in on any supported device using your Max credentials.
 
 3. **Multiple Ways to Connect**  
-   Options include Wi‑Fi apps, TV device QR codes, or manually via the `max.com/providers/code` webpage :contentReference[oaicite:4]{index=4}.
+   Options include Wi‑Fi apps, TV device QR codes, or manually via the `max.com/providers/code` webpage.
 
 Step-by-Step Instructions
 -------------------------
@@ -52,21 +52,21 @@ Step-by-Step Instructions
 4. Enter the code and select your **TV or internet provider** from the list.
 5. Log in with your provider credentials.
 6. If prompted, create or link your Max account email.
-7. Select your Max profile and begin streaming :contentReference[oaicite:5]{index=5}.
+7. Select your Max profile and begin streaming.
 
 Supported Providers
 -------------------
 
-* Cable/MSO providers: Xfinity (Comcast), Spectrum, and dozens more :contentReference[oaicite:6]{index=6}  
-* Streaming bundles: Hulu, Disney+, Sling, Prime Video Channels, DoorDash bundle, etc. :contentReference[oaicite:7]{index=7}  
-* App store sign‑up: Amazon Appstore, Google Play, Roku, Apple App Store :contentReference[oaicite:8]{index=8}
+* Cable/MSO providers: Xfinity (Comcast), Spectrum, and dozens more
+* Streaming bundles: Hulu, Disney+, Sling, Prime Video Channels, DoorDash bundle, etc.  
+* App store sign‑up: Amazon Appstore, Google Play, Roku, Apple App Store 
 
 Troubleshooting Tips
 --------------------
 
-- **“Can’t verify your subscription”** – Ensure Max is included in your provider package :contentReference[oaicite:9]{index=9}.  
-- **TV code not working** – Try incognito mode or scan the QR code from your mobile device :contentReference[oaicite:10]{index=10}.  
-- **Error: provider account already in use** – Sign in with your existing Max account or select a different email :contentReference[oaicite:11]{index=11}.
+- **“Can’t verify your subscription”** – Ensure Max is included in your provider package.
+- **TV code not working** – Try incognito mode or scan the QR code from your mobile device. 
+- **Error: provider account already in use** – Sign in with your existing Max account or select a different email.
 
 Best Practices for SEO & Bing Indexing
 --------------------------------------
@@ -74,7 +74,7 @@ Best Practices for SEO & Bing Indexing
 - Use **semantic headers** and natural keyword placement without over‑optimization.
 - Provide **expert tips** based on official Max Help articles.
 - Avoid copying large blocks of text from the Max site and ensure the page adds unique value.
-- Validate site ownership via **Bing Webmaster Tools** to ensure smooth indexing :contentReference[oaicite:12]{index=12}.
+- Validate site ownership via **Bing Webmaster Tools** to ensure smooth indexing.
 
 Conclusion
 ----------
